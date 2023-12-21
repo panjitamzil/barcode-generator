@@ -8,3 +8,6 @@ Developed a Python and Tkinter-based EAN-13 Barcode Generator, a project enablin
 
 3. Run main.py with
 `python3 main.py`
+
+# result
+![Alt text](result.png?raw=true)
